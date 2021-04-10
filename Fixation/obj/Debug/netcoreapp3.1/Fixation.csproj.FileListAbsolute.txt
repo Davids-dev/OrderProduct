@@ -1,0 +1,13 @@
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\obj\Debug\netcoreapp3.1\Fixation.csprojAssemblyReference.cache
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\obj\Debug\netcoreapp3.1\Fixation.AssemblyInfoInputs.cache
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\obj\Debug\netcoreapp3.1\Fixation.AssemblyInfo.cs
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\obj\Debug\netcoreapp3.1\Fixation.csproj.CoreCompileInputs.cache
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\bin\Debug\netcoreapp3.1\Fixation.exe
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\bin\Debug\netcoreapp3.1\Fixation.deps.json
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\bin\Debug\netcoreapp3.1\Fixation.runtimeconfig.json
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\bin\Debug\netcoreapp3.1\Fixation.runtimeconfig.dev.json
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\bin\Debug\netcoreapp3.1\Fixation.dll
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\bin\Debug\netcoreapp3.1\Fixation.pdb
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\obj\Debug\netcoreapp3.1\Fixation.dll
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\obj\Debug\netcoreapp3.1\Fixation.pdb
+C:\Users\Davisson\Desktop\C# .NET\8- Enumerações e composição\ExercicioExemplo\Fixation\Fixation\obj\Debug\netcoreapp3.1\Fixation.genruntimeconfig.cache
